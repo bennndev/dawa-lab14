@@ -57,7 +57,7 @@ const mockDB = {
   ]
 };
 
-export async function getPageData(path) {
+export async function getPageData(path: string) {
   // Simular una llamada a base de datos/CMS
   return new Promise((resolve) => {
     setTimeout(() => {
