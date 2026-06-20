@@ -1,5 +1,5 @@
 // INICIO TAREA: Sitemap Dinámico
-const BASE_URL = "https://mi-sitio.com";
+const BASE_URL = "https://dawa-lab14.onrender.com";
 
 // Importar las funciones del CMS
 import { getPageData, getBlogPosts } from "../../lib/cms.ts";

@@ -12,7 +12,7 @@ export default function Blog() {
         <meta property="og:title" content="Blog de SEO y Desarrollo Web | Mi Sitio Optimizado" />
         <meta property="og:description" content="Aprende sobre SEO, optimización de rendimiento web y las últimas tendencias tecnológicas para mejorar el posicionamiento de tu sitio en Google." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://mi-sitio.com/blog" />
+        <meta property="og:url" content="https://dawa-lab14.onrender.com/blog" />
         <meta property="og:image" content="https://mi-sitio.com/images/og-blog.jpg" />
       </Head>
       {/* FIN TAREA: */}

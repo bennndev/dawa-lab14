@@ -18,7 +18,7 @@ export default function Home() {
         <meta property="og:title" content="Inicio | Expertos en Optimización SEO y Desarrollo Web" />
         <meta property="og:description" content="Creamos y optimizamos sitios web de alto rendimiento con las mejores prácticas de SEO para mejorar tu visibilidad en Google." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://mi-sitio.com/" />
+        <meta property="og:url" content="https://dawa-lab14.onrender.com/" />
         <meta property="og:image" content="https://mi-sitio.com/images/og-home.jpg" />
       </Head>
       {/* FIN TAREA: */}

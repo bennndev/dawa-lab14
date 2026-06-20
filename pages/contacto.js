@@ -12,7 +12,7 @@ export default function Contacto() {
         <meta property="og:title" content="Contacto | Soporte y Consultoría de SEO y Desarrollo" />
         <meta property="og:description" content="Ponte en contacto con nuestro equipo de expertos en SEO y desarrollo web. Estamos listos para ayudarte a hacer despegar tu proyecto." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://mi-sitio.com/contacto" />
+        <meta property="og:url" content="https://dawa-lab14.onrender.com/contacto" />
         <meta property="og:image" content="https://mi-sitio.com/images/og-contact.jpg" />
       </Head>
       {/* FIN TAREA: */}

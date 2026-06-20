@@ -80,7 +80,7 @@ function validateRobotsTxt() {
 
     // Verificar si incluye el sitemap
     const hasSitemap = robotsContent.includes('Sitemap:') && 
-                     robotsContent.includes('https://mi-sitio.com/api/sitemap');
+                      (robotsContent.includes('https://mi-sitio.com/api/sitemap') || robotsContent.includes('https://dawa-lab14.onrender.com/api/sitemap'));
 
     if (!hasSitemap) {
       console.log('❌ Error: robots.txt no incluye la URL del sitemap');

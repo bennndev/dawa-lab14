@@ -1,5 +1,5 @@
 # INICIO TAREA: Sitemap Dinámico
 User-agent: *
 Allow: /
-Sitemap: https://mi-sitio.com/api/sitemap
+Sitemap: https://dawa-lab14.onrender.com/api/sitemap
 # FIN TAREA:
